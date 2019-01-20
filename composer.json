@@ -1,0 +1,24 @@
+{
+    "name": "ramiawadallah/admin",
+    "description": "Simple Admin Panel for Laravel.",
+    "keywords": ["view", "admin", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rami Awadallah",
+            "email": "rami.moh.awadallah@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3",
+        "illuminate/support": "5.6.*|5.7.*"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}
