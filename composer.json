@@ -38,7 +38,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ramiawadallah\\Adminpro\\MultiauthServiceProvider"
+                "Ramiawadallah\\Adminpro\\AdminproServiceProvider"
             ]
         }
     }
